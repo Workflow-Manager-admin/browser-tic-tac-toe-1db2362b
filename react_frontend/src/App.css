@@ -8,6 +8,10 @@
   --border-color: #e9ecef;
   --button-bg: #007bff;
   --button-text: #ffffff;
+  /* Game-specific colors */
+  --game-accent: #43a047;
+  --game-primary: #1976d2;
+  --game-secondary: #ffffff;
 }
 
 [data-theme="dark"] {
